@@ -1,0 +1,34 @@
+html,body {
+height:100%;
+margin:0;
+padding:0;
+}
+
+#map {
+height:100%;
+}
+
+hr {
+border-color:#FF0;
+}
+
+.container {
+background-image:url(collage.jpg);
+}
+
+#head {
+color:#FF0;
+font-weight:700;
+text-decoration:underline;
+}
+
+#h1 {
+color:#FF0;
+font-weight:100px;
+text-decoration:underline;
+}
+
+h4 {
+color:#FF0;
+font-weight:100px;
+}
